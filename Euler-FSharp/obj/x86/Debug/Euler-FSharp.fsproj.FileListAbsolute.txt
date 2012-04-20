@@ -1,0 +1,6 @@
+C:\development\greg-github\Euler-FSharp\Euler-FSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\development\greg-github\Euler-FSharp\Euler-FSharp\bin\Debug\Euler_FSharp.XML
+C:\development\greg-github\Euler-FSharp\Euler-FSharp\bin\Debug\Euler_FSharp.exe
+C:\development\greg-github\Euler-FSharp\Euler-FSharp\bin\Debug\Euler_FSharp.pdb
+C:\development\greg-github\Euler-FSharp\Euler-FSharp\obj\x86\Debug\Euler_FSharp.exe
+C:\development\greg-github\Euler-FSharp\Euler-FSharp\obj\x86\Debug\Euler_FSharp.pdb
